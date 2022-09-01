@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MaazSiddiqui2801
-- 👀 I’m interested in UI UX Development, Graphic Designing, and Software Development using Java.
+- 👋 Hi, I’m Maaz
+- 👀 I’m interested in Data Sciences, UI UX Development, Graphic Designing, and Software Development using Java.
 - 🌱 I’m currently learning Database using SQL
-- 🌱 Languages: Java, Html, CSS, Javascript, Pyhton
+- 🌱 Languages: Java, Html, CSS, Javascript, Python
 - 💞️ I’m looking to collaborate as Graphic Designer and Social Media Content Creator
 - 📫 How to reach me 
 maazsiddiquimaaz2@gmail.com
